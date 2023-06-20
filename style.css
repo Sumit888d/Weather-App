@@ -13,7 +13,9 @@ div#page-header-wrap{display:none;}
 }
 h1{
     margin-bottom:-1px;
+    border-bottom: 1px transparent solid ;
     top:0%;
+    z-index:2;
     position: absolute;
     padding-top: 2rem;
     font-weight:bolder;

@@ -12,13 +12,11 @@ div#page-header-wrap{display:none;}
 div#page-header-wrap{display:none;}
 }
 h1{
-    margin-bottom:-1px;
     border-bottom: 1px transparent solid ;
     border-top:1px transparent solid;
     top:5%;
     z-index:2;
     position: absolute;
-    margin-top:3rem;
     padding-top: 3rem;
     font-weight:bolder;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
